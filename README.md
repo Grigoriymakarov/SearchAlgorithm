@@ -141,12 +141,6 @@ Test queries are in `query_testfinal/` and expected outputs are in `solution_tes
 
 ---
 
-## AI Usage
-
-*(To be filled in — as required by the project specification, section 8)*
-
----
-
 ## References
 
 - Smith & Waterman (1981) — *Identification of common molecular subsequences*
