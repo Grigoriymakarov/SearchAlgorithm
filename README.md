@@ -1,15 +1,9 @@
 # INFO-H304 — Protein Sequence Alignment with Smith-Waterman
-
-**Groupe No 12**
-- Youssouf Elias (@eyou0004)
-- Minacapelli Enzo (@emin0010)
-- Makarov Grigorii (@gmak0012)
-
 ---
 
 ## Project Overview
 
-This project implements the **Smith-Waterman algorithm** for local protein sequence alignment, as part of the INFO-H304 course at ULB (2025–2026).
+This project implements the **Smith-Waterman algorithm** for local protein sequence alignment, as part of the INFO-H304 course, it also implements parallel computing(whitch significantly incresed the computing time).
 
 The program takes a query protein sequence and aligns it against a large protein database (Swiss-Prot), returning the top 20 most similar proteins ranked by similarity score.
 
